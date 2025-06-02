@@ -6,7 +6,7 @@ from telegram.ext import (
     CallbackQueryHandler, ContextTypes, filters, AIORateLimiter
 )
 
-BOT_TOKEN = "8118178449:AAHULZHoHfUl9mXXj5uCvZ-viJaeMapGMNo"
+BOT_TOKEN = "7719704221:AAGnVbM8tMJV0Kob14fJ7jIo_IB4VB9tYdo"
 APP_URL = "https://safe-predictor-bot.onrender.com"  # 🔁 Replace with your Render URL
 
 app = FastAPI()
